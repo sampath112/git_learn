@@ -1,5 +1,5 @@
 Hello Git
 This is my second line
 This is the third line (feature-1)
-Master branch update
+Change made in master branch
 Feature-2 update
