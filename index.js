@@ -7,3 +7,4 @@ console.log("Starting validation");
 function validateAge(age) {
   return age > 18;
 }
+console.log(validateAge(20));
