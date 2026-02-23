@@ -1,1 +1,3 @@
-console.log("Student App Started");
+const greet = require("./utils");
+
+console.log(greet("Sampath"));
